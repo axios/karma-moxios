@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "description": "Moxios for Karma",
   "main": "index.js",
+  "scripts": {
+   "postversion": "git push && git push --tags" 
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mzabriskie/karma-moxios.git"
