@@ -1,0 +1,30 @@
+{
+  "name": "karma-moxios",
+  "version": "0.0.0",
+  "description": "Moxios for Karma",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mzabriskie/karma-moxios.git"
+  },
+  "keywords": [
+    "karma",
+    "karma-plugin",
+    "axios",
+    "moxios",
+    "mock"
+  ],
+  "author": "Matt Zabriskie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mzabriskie/karma-moxios/issues"
+  },
+  "homepage": "https://github.com/mzabriskie/karma-moxios#readme",
+  "peerDependencies": {
+    "karma": "*",
+    "moxios": "*"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  }
+}
